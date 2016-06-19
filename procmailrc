@@ -1,0 +1,6 @@
+LOGFILE=/root/.procmail.log
+MAILDIR=/root
+VERBOSE=on
+
+:0
+Maildir/
